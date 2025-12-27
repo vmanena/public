@@ -5,4 +5,4 @@ Různé materiály ke stažení
 
 [Zákaz versus regulace mobilů](https://vmanena.github.io/public/zakaz_mobilu.png)
 
-[Jů, Hela a Mariah Carey](https://vmanena.github.io/public/ju_hele_mariah,jpg)
+[Jů, Hele a Mariah Carey](https://vmanena.github.io/public/ju_hele_mariah.jpg)
