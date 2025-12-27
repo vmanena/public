@@ -6,3 +6,9 @@ Různé materiály ke stažení
 [Zákaz versus regulace mobilů](https://vmanena.github.io/public/zakaz_mobilu.png)
 
 [Jů, Hele a Mariah Carey](https://vmanena.github.io/public/ju_hele_mariah.jpg)
+
+[Stírací los](https://vmanena.github.io/public/stiraci_los.jpeg)
+
+[Výherní los](https://vmanena.github.io/public/vyherni_los.jpeg)
+
+[Sloník cizích sov](https://vmanena.github.io/public/slonik_cizich_sov.png)
