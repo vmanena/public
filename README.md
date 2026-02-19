@@ -11,4 +11,6 @@ Různé materiály ke stažení
 
 [Výherní los](https://vmanena.github.io/public/vyherni_los.png)
 
+[Online los](https://vmanena.github.io/public/online_los.jpg)
+
 [Sloník cizích sov](https://vmanena.github.io/public/slonik_cizich_sov.png)
