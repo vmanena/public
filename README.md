@@ -11,6 +11,8 @@ Různé materiály ke stažení
 
 [Výherní los](https://vmanena.github.io/public/vyherni_los.png)
 
-[Online los](https://vmanena.github.io/public/online_los.jpg)
+[Online los stíraný ručně](https://vmanena.github.io/public/online_los.jpg)
+
+[Online los stíraný slovně](https://vmanena.github.io/public/online_los_slovni.jpg)
 
 [Sloník cizích sov](https://vmanena.github.io/public/slonik_cizich_sov.png)
