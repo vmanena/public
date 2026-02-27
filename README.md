@@ -1,6 +1,4 @@
-# Public
-## Různé materiály ke stažení
-
+# Různé materiály ke stažení
 [Plakát kráva](https://vmanena.github.io/public/plakat_krava.pdf)
 
 [Zákaz versus regulace mobilů](https://vmanena.github.io/public/zakaz_mobilu.png)
@@ -17,5 +15,5 @@
 
 [Sloník cizích sov](https://vmanena.github.io/public/slonik_cizich_sov.png)
 
-## Windows
+# Windows
 [Vypnutí vyhledávání na internetu v nabídce Start](https://vmanena.github.io/public/disable_search_box_suggestions/)
