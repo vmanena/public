@@ -1,5 +1,5 @@
 # public
-Různé materiály ke stažení
+## Různé materiály ke stažení
 
 [Plakát kráva](https://vmanena.github.io/public/plakat_krava.pdf)
 
@@ -16,3 +16,6 @@ Různé materiály ke stažení
 [Online los stíraný slovně](https://vmanena.github.io/public/online_los_slovni.jpg)
 
 [Sloník cizích sov](https://vmanena.github.io/public/slonik_cizich_sov.png)
+
+## Windows
+[Vypnutí vyhledávání na internetu v nabídce start](https://vmanena.github.io/public/disable_search_box_suggestions.md)
