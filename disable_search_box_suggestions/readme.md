@@ -1,5 +1,8 @@
 # Jak vypnout vyhledávání na internetu v nabídce Start
-Práce s nabídkou Start může být ve Windows 10/11 pomalá, protože při vyhledávání standardně prohledává kromě názvů aplikací a mistně uložených souborů také internet.
+Práce s nabídkou Start může být ve Windows 10/11 pomalá, protože při vyhledávání standardně prohledává kromě názvů aplikací a souborů také internet. Když toto chováni vypnete, nabídka Start se zrychlí a navíc bude přehlednější. 
+
+Toto chování lze změnit pomocí klíče v registru. Níže jsou dva souobory, pomoci kterých můžete vyhledávání internetu vypnout/zapnout.
+
 ## Vypnutí vyhledávání
 
 Soubor [disable_websearch.reg](disable_websearch.reg)
@@ -16,5 +19,3 @@ Soubor [enable_websearch.reg](enable_websearch.reg)
     
     [HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer]
     "DisableSearchBoxSuggestions"=-
-
-e
