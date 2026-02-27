@@ -11,3 +11,10 @@ Soubor [disable_websearch.reg](disable_websearch.reg)
 
 ## Zapnutí vyhledávání
 Soubor [enable_websearch.reg](enable_websearch.reg)
+
+    Windows Registry Editor Version 5.00
+    
+    [HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer]
+    "DisableSearchBoxSuggestions"=-
+
+e
