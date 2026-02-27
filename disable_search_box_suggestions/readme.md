@@ -3,6 +3,7 @@ Práce s nabídkou Start může být ve Windows 10/11 pomalá, protože při vyh
 ## Vypnutí vyhledávánaí
 
 d
+
     kód
     kód
     kód
