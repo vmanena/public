@@ -16,4 +16,4 @@
 [Sloník cizích sov](https://vmanena.github.io/public/slonik_cizich_sov.png)
 
 # Windows
-[Vypnutí vyhledávání na internetu v nabídce Start](https://vmanena.github.io/public/disable_search_box_suggestions/)
+[Vypnutí prohledávání internetu v nabídce Start](https://vmanena.github.io/public/disable_search_box_suggestions/)
