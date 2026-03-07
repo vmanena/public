@@ -22,9 +22,14 @@ Nahrajte soubor swf a prehravac.html.
 ![Nahrání souborů](moodle_ruffle_2.png)
 
 ### Krok 3 - Nastavení přehrávače jako hlavního souboru
-Klikněte na **prehravac.html** a v dialogu ho nastavte jako hlavní.
+Klikněte na **prehravac.html** a v dialogu ho nastavte jako hlavní. Studijní materiál uložte.
 
 ![Nastavení hlavního souboru](moodle_ruffle_3.png)
+
+### Krok 4 – Vyzkoušení a případné úpravy
+Vyzkoušejte, jestli se soubor zobrazuje správně. Většina materiálů ve formátu swf by se měla správně zobrazovat s výchozími hodnotami, které jsou nastaveny v přehrávači. Pokud by byl materiál zdeformovaný, můžete zkusit změnit poměr stran. Kromě 5/4 používaly materiály většinou poměr 4/3. Pokud je materriál moc velý, upravte procenta. **Poměr i procenta měňte pouze v následujícím řádku:**
+
+    <div style="width:60%; aspect-ratio:5/4;">
 
 [![Download file](https://img.shields.io/badge/download-prehravac.html-brightgreen)](https://raw.githubusercontent.com/uzivatel/repo/main/prehravac.html)
 
