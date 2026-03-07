@@ -31,7 +31,8 @@ Vyzkoušejte, jestli se soubor zobrazuje správně. Většina materiálů ve for
 
     <div style="width:60%; aspect-ratio:5/4;">
  
-Po změně 
+Upravený soubor znovu nahrajde do Moodlu a vyzkoušejte, jak se materiál zobrazuje. Nejjednoduší je soubor nahrát znovu a při nahrávání 
+
 [![Download file](https://img.shields.io/badge/download-prehravac.html-brightgreen)](https://raw.githubusercontent.com/uzivatel/repo/main/prehravac.html)
 
 ## Soubory ke stažení
