@@ -37,6 +37,6 @@ Upravený soubor znovu nahrajde do Moodlu a vyzkoušejte, jak se materiál zobra
 ![Přepsání souboru přehrávače](moodle_ruffle_4.png)
 
 ## Poznámka pro uživatele
-Materiály je možné zobrazit i v režimu celé obrazovky. Stačí na zobrazený materiál kliknout *pravým tlačítkem myši** a v kontextové nabídce vybrat **Přejít do režimu celé obrazovky**.
+Materiály je možné zobrazit i v režimu celé obrazovky. Stačí na zobrazený materiál kliknout **pravým tlačítkem myši** a v kontextové nabídce vybrat **Přejít do režimu celé obrazovky**.
 
 ![Zobrazení v režimu celé obrazovky](moodle_ruffle_5.png)
