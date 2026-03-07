@@ -17,3 +17,6 @@
 
 # Windows
 [Vypnutí prohledávání internetu v nabídce Start](https://vmanena.github.io/public/disable_search_box_suggestions/)
+
+#Moodle
+[Jak vložit soubory swf do Moodlu](https://vmanena.github.io/public/ruffle/)
