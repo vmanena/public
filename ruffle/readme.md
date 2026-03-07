@@ -3,7 +3,7 @@ Tento postup vám umožní vložit do Moodlu soubory ve formátu swf tak, že si
 
 Využívá k tomu zdarma dostupný emulátor [ruffle](https://ruffle.rs/), který vložený flashový soubor ve formátu swf převede na html5. Uživateli se stránka zobrazí stejně jako běžný obsah.
 
-[![Stáhnout](https://img.shields.io/badge/stahnout-prehravac.html-brightgreen)](https://github.com/vmanena/public/releases/download/v1.0/prehravac.html)
+[![Stáhnout](https://img.shields.io/badge/St%C3%A1hnout.html-brightgreen)](https://github.com/vmanena/public/releases/download/v1.0/prehravac.html)
 
  ## Postup vložení souboru
  Tento návod předpokládá, že soubor s Flashem má název **soubor.swf**. Pokud chcete použít jiný název, upravte ho v souboru **prehravac.html**.
