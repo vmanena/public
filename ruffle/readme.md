@@ -32,7 +32,7 @@ Vyzkoušejte, jestli se soubor zobrazuje správně. Většina materiálů ve for
 
     <div style="width:60%; aspect-ratio:5/4;">
  
-Upravený soubor znovu nahrajde do Moodlu a vyzkoušejte, jak se materiál zobrazuje. Nejjednoduší je soubor nahrát znovu a při nahrávánízvolit možnost **Přepsat**.
+Upravený soubor znovu nahrajde do Moodlu a vyzkoušejte, jak se materiál zobrazuje. Nejjednoduší je soubor nahrát znovu a při nahrávání zvolit možnost **Přepsat**.
 
 ![Přepsání souboru přehrávače](moodle_ruffle_4.png)
 
