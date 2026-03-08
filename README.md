@@ -23,4 +23,5 @@
 
 ## Chcte mě podpořit?
 Pokud mě chcete podpoři, můžete mi koupit virtuální kafe.
+
 [![Kupte mi kafe](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/vmanena)
