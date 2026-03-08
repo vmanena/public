@@ -23,15 +23,10 @@
 
 ## Chcte mě podpořit?
 Pokud mě chcete podpořit, můžete mi koupit virtuální kafe.
+
 [![Kupte mi kafe](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge)](https://www.buymeacoffee.com/vmanena)
 
 [![Support me](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge)](https://www.buymeacoffee.com/vmanena)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/vmanena)
 
-[![Kupte mi kafe](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/vmanena)
-<p align="center">
-  <a href="https://www.buymeacoffee.com/vmanena">
-    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-support-yellow?style=for-the-badge" height="65">
-  </a>
-</p>
