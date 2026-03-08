@@ -22,4 +22,5 @@
 [Jak vložit soubory swf do Moodlu](https://vmanena.github.io/public/ruffle/)
 
 ## Chcte mě podpořit?
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/vmanena)
+Pokud mě chcete podpoři, můžete mi koupit virtuální kafe.
+[![Kupte mi kafe](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/vmanena)
