@@ -21,7 +21,6 @@
 # Moodle
 [Jak vložit soubory swf do Moodlu](https://vmanena.github.io/public/ruffle/)
 
-## Chcte mě podpořit?
+## Chcete mě podpořit?
 Pokud mě chcete podpořit, můžete mi koupit virtuální kafe.
-
 [![Kupte mi kafe](https://img.shields.io/badge/coffee-podpo%C5%99te%20m%C4%9B-yellow?style=for-the-badge&logo=buy-me-a-coffee&label=Kupte%20mi%20kafe)](https://www.buymeacoffee.com/vmanena)
