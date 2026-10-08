@@ -16,7 +16,7 @@
 [Sloník cizích sov](https://vmanena.github.io/public/slonik_cizich_sov.png)
 
 #Gify
-[GIFy, které nutně potřebujete](
+[GIFy, které nutně potřebujete](https://vmanena.github.io/public/gif)
 
 # Windows
 [Vypnutí prohledávání internetu v nabídce Start](https://vmanena.github.io/public/disable_search_box_suggestions/)
